@@ -1,0 +1,31 @@
+.button {
+  display: inline-block;
+  width: 5.7rem;
+  height: 0.8rem;
+  line-height: 0.8rem;
+  margin-left: 0.35rem;
+  margin-top: 0.35rem;
+  text-align: center;
+  cursor: pointer;
+  border-radius: 0.4rem;
+  font-size: 0.4rem;
+  position: relative;
+}
+
+.gray {
+  color: #9a9a9a;
+  background: #ffce00;
+  background: -webkit-gradient(linear, left top, left bottom, from(#cfcfcf), to(#f7f6f6));
+  background: -moz-linear-gradient(top, #cfcfcf, #f7f6f6);
+  filter: progid: DXImageTransform.Microsoft.gradient(startColorstr='#cfcfcf', endColorstr='#f7f6f6');
+  box-shadow: 0px 0.1rem 0.04rem 0 #cecece;
+}
+
+.orange {
+  color: #b65900;
+  background: #f78d1d;
+  background: -webkit-gradient(linear, left top, left bottom, from(#ffce00), to(#ffa800));
+  background: -moz-linear-gradient(top, #ffce00, #ffa800);
+  filter: progid: DXImageTransform.Microsoft.gradient(startColorstr='#ffce00', endColorstr='#ffa800');
+  box-shadow: 0px 0.1rem 0.04rem 0 #f27d00;
+}

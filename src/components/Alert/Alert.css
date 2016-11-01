@@ -1,0 +1,10 @@
+.alpha{width:100%;height:100%;position: fixed; _position: absolute;top: 0;left: 0;z-index:2;background:#000;filter: alpha(opacity=19);-moz-opacity: 0.19;opacity: 0.19;zoom: 1;}
+.popup{text-align:center;position:fixed;top:50%;z-index:99;background-color:#fff;width:5.14rem;padding: 0.36rem 0.1rem;margin-left:0.63rem;transform: translateY(-50%);-webkit-border-radius:0.22rem;-moz-border-radius:0.22rem;-o-border-radius:0.22rem;border-radius:0.22rem;}
+.popup h2{text-align:center;color:#ff7a00;}
+.butsm{margin: 0 0.2rem;display:inline-block;width:1.9rem;height:0.46rem;line-height:0.46rem;text-align:center;font-size:0.23rem;margin-top:0.3rem;-webkit-border-radius:0.23rem;-moz-border-radius:0.23rem;-o-border-radius:0.23rem;border-radius:0.23rem;}
+
+.alert .title{margin-bottom: 0.26rem;font-size:0.25rem;}
+.alert .price{ font-size:0.4rem;line-height:0.7rem;}
+.alert .detail{font-size:0.2rem;}
+.alert .cancel{color:#8b8b8b;background-color:#dcdcdc;}
+.alert .sure-btn{ color:#ffffff;background-color:#ff7a00;}
